@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "erudite-scarab-348808",
+    "private_key_id": "a4a913f6f358bfc06050e5097870855d7f383a7b",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCUlXHPgWbUTvcr\nZ7UkXOQMUguoGfxbASIDUFeDho3HIbmR/9szBtvyh3BzCDynnSD6M4/a02Vflv7g\naF93Zi5SFavkZP794MmXZ8WuI2IJLyIFy6UqPKTWUqf1YMvqrLQfKgOw8LURsBsG\n5Efy8A3pB0RHIM91wJBSpmHLJPFD1jx+CG+5pz4rYPHXnUAmPhyjEDUJSJeZnuww\nYjPWo49EFU513NJ/vA+QZlSXR6KR29iTZqfRb1oZi/CVIbC4lMZv96NgIe4PFrPb\nYavWyOBdFpUDddLrbAs7+TPRO6ND+aKx1gSnoPeNiL8ANCvb3O9ghS3kLoSk/WPk\npLu62p65AgMBAAECggEAQvSPK0dwK5cD+crLjX3QhB7Kwu8m0WmSxrSDIzFUnVn8\nsiZ+RCHApqtSyHt7PbroW+c1WZIuWeOEqmJONtNUZ0f9xDeg0o3jufcY1Q57xJC5\nP6xTmtNmInBv4HrEmVVG+84miKsHpVda7oGbTIXRduN/6J+H7VOflacFZZIZqIvn\nnHAw/+qA+kBkYmf1lZ0W5dr/2dlvjiKxjaOSe1Ic5Tt5GjKD6qN2GQobOMZxtEpT\nUFhGxCx860T2ytnnm8pmpzoAc+g0MQ7/r/DhTTT3fi4kA63TWmKO2HPmqzA+OC9C\nQsm5qmnL6wsvBK11RMk9m/JeeqRW0U6WXyNdZWfkgwKBgQDLTnnHZzuRiKfADftx\nJPe+mDmEb06vP20Eikow3BYVkbJoVayvLt2a9nc4Y1KineqhhIRUn7YP557nwXQF\nf8QdkK2oCBaiPzifq4an+cVveKaFGpzQuQeBb3R02ANCaOVHZWbw938o/Gzu1pXE\nc8B7+TiJqhzsWvdqmLjwz+wAkwKBgQC7GBODt/iX6EEAWng7CwwIfEzobWjNskJy\naPD9Xendpjrh805pUhi7LxKF0M1KPB+3RFHbL02Xtcla0HlEw46tGNMCtWJftUMx\nnMYKLXICXUqpG6i0HCRExa+JXOhkLkU/ObpCK9OLqlZR8EpXqahDu/kAJ8ECYXEf\nX/2gq3oPAwKBgCSnuX0iN7M9mEEgRD1aFPDgMT6XcvBV1yoCZO36QGETK79z8vaC\n1KGj3krkXXnETxFf+xvmz8R+VkAiuPBk4M8TzruE+c+25lajblvKxLYcYqmM6skX\nEytbFPwcFjpa/zuoJK89cEfLezh0p/wLgqDXhkIL0bsri4BEmNOSKVLRAoGAQa4X\nE7Oe+r0XLKeV86xSIhx451OZajS9LOr4RwoUErLLkwzWJxUiB3xj9UQy/W+T9sNu\nNRMrGyo/MLllCSXZzZycXyQMD+tTVnRh9aq0jm3vyuQh2nDSrq3zjLZoAttXhfWf\nFKHMFwjKWuOPRa0SnAy+QjayhEJu8wPAxwnLxL8CgYEAsmPWKwJ/rtkm7v9qYRXf\n2c64ypDpSqkDh9sRBTM0U41f450/cut6uJ0wja1GysKNztRjus1wBhNBLSgLi49+\nOHIptR0+adEia6R/PRbFO27LJD/hgLNBV0ydkmhxEZ/njaoR8upZjpW76R900D+f\nGFiF/GbS8e+NVI6sQJbUHaA=\n-----END PRIVATE KEY-----\n",
+    "client_email": "mehak-14@erudite-scarab-348808.iam.gserviceaccount.com",
+    "client_id": "103226803601556002058",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mehak-14%40erudite-scarab-348808.iam.gserviceaccount.com"
+  }
+  
